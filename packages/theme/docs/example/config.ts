@@ -58,4 +58,12 @@ export default defineExamples([
     avatar: 'https://cdn.upyun.sugarat.top/avatar/blog/llxz.png',
     nickname: 'laiky'
   },
+    {
+    cover: 'https://telegraph-image-659.pages.dev/file/013d3e19530b24eba4ac1.png',
+    link: 'https://rx-ted.github.io/blog',
+    name: 'Blog',
+    desc: 'Blog, Recording the crip.',
+    avatar: 'https://rx-ted.github.io/blog/author.jpg',
+    nickname: 'rx-ted'
+  },
 ])
